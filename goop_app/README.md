@@ -1,6 +1,10 @@
 # goop_app
 
 A new Flutter project.
+To use it:
+Create a file keys.dart in Lib/utilities
+with :
+const apiKey = "VALID YUTUBE_API key";
 
 ## Getting Started
 
